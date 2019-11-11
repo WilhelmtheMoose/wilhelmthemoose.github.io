@@ -144,8 +144,4 @@ FOXINGTON|THE PENULTIMATE WARRIOR|BOSS|All of The Penultimate Warrior's Challeng
 FOXINGTON|THE PENULTIMATE WARRIOR|BOSS|Defeat Robo Tess
 FOXINGTON|THE PENULTIMATE WARRIOR|BOSS|Defeat Robo General Buttons
 FOXINGTON|Whack an arcade machine
-LIVES|10 lives
-LIVES|15 lives
-LIVES|20 lives
-LIVES|25 lives
-LIVES|30 lives
+SKY CASTLE|GO FETCH|Kill Lil' Sparky

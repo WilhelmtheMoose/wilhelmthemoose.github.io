@@ -144,8 +144,4 @@ THE PENULTIMATE WARRIOR|BOSS|All of The Penultimate Warrior's Challenges
 THE PENULTIMATE WARRIOR|BOSS|Defeat Robo Tess
 THE PENULTIMATE WARRIOR|BOSS|Defeat Robo General Buttons
 Whack an arcade machine
-LIVES|10 lives
-LIVES|15 lives
-LIVES|20 lives
-LIVES|25 lives
-LIVES|30 lives
+GO FETCH|Kill Lil' Sparky
