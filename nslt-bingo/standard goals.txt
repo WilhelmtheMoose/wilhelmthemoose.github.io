@@ -145,3 +145,11 @@ FOXINGTON|THE PENULTIMATE WARRIOR|BOSS|Defeat Robo Tess
 FOXINGTON|THE PENULTIMATE WARRIOR|BOSS|Defeat Robo General Buttons
 FOXINGTON|Whack an arcade machine
 SKY CASTLE|GO FETCH|Kill Lil' Sparky
+Defeat Master Mittens damageless
+Defeat Tess damageless
+Defeat General Buttons damageless
+Defeat Meowmalade damageless
+Defeat Jinx damageless
+Defeat Robo Tess damageless
+Defeat Robo General Buttons damageless
+Complete Wrigglemania damageless
